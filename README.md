@@ -1,4 +1,4 @@
-Safe For Work GreaseMonkey Script for VikeFans.com
+GreaseMonkey Script for VikeFans.com
 =============
 
 Just a little something I threw together to strip colors and images.
